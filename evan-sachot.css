@@ -48,4 +48,9 @@ h1{
   text-align: center;
   border: 1px;
   text-decoration: none;
+  background-color: grey;
+  padding: 5px;
+}
+.button:hover{
+  text-decoration: underline;
 }
