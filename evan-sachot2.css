@@ -45,3 +45,9 @@ h1{
     background-color: blueviolet;
     border: none;
 }
+.button{
+  color: white;
+  text-align: center;
+  border: 1px;
+  text-decoration: none;
+}
